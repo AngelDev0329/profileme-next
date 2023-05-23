@@ -116,7 +116,7 @@ Web Developer
             <div className="absolute w-full h-full bg-gradient-to-t dark:from-dark-800 from-light-100"></div>
 
             <img
-              src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/screenshot.png"
+              src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/screenshot.png"
               className="overflow-hidden rounded-md shadow-dark-900/5"
               width="100%"
               alt="Screenshot of ProfileMe.dev"
@@ -156,7 +156,7 @@ Web Developer
               <div className="flex gap-x-4 items-center">
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/c-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/c-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="C icon"
@@ -164,7 +164,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/html5-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/html5-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="HTML5"
@@ -172,7 +172,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/javascript-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/javascript-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="JavaScript"
@@ -180,7 +180,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/tailwindcss-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Tailwind CSS"
@@ -188,7 +188,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/typescript-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/typescript-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="TypeScript"
@@ -199,7 +199,7 @@ Web Developer
               <div className="flex gap-x-4 items-center">
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/php-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/php-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="PHP"
@@ -207,7 +207,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/vuejs-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/vuejs-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Vue JS"
@@ -215,7 +215,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/supabase-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/supabase-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Supabase"
@@ -223,7 +223,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/figma-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/figma-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Figma"
@@ -231,7 +231,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/react-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/react-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="React JS"
@@ -242,7 +242,7 @@ Web Developer
               <div className="flex gap-x-4 items-center">
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/nuxtjs-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/nuxtjs-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Next JS"
@@ -250,7 +250,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/nestjs-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/nestjs-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Nest JS"
@@ -258,7 +258,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/angularjs-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/angularjs-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Angular JS"
@@ -266,13 +266,13 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/babel-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/babel-colored.svg"
                     width="100%"
                     className="flex dark:hidden scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Babel"
                   />
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/babel-dark.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/babel-dark.svg"
                     width="100%"
                     className="dark:flex hidden scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Babel"
@@ -280,7 +280,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/python-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/python-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Python"
@@ -291,7 +291,7 @@ Web Developer
               <div className="flex gap-x-4 items-center">
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/firebase-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/firebase-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Firebase"
@@ -299,7 +299,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/flutter-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/flutter-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Flutter"
@@ -307,13 +307,13 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/express-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/express-colored.svg"
                     width="100%"
                     className="flex dark:hidden scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Express JS"
                   />
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/express-dark.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/express-dark.svg"
                     width="100%"
                     className="hidden dark:flex scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Express JS"
@@ -321,7 +321,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/gatsby-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/gatsby-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Gatbsy"
@@ -329,7 +329,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/graphql-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/graphql-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="GraphQL"
@@ -340,7 +340,7 @@ Web Developer
               <div className="flex gap-x-4 items-center">
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/bootstrap-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Bootstrap"
@@ -348,7 +348,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/swift-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/swift-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Swift"
@@ -356,7 +356,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/dart-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/dart-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Dart"
@@ -364,7 +364,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/svelte-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/svelte-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Svelte"
@@ -372,7 +372,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/sass-colored.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/sass-colored.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="SaaS"
@@ -398,7 +398,7 @@ Web Developer
               <div className="flex gap-4 mx-auto items-center">
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/polywork.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/polywork.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Polywork"
@@ -406,7 +406,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/facebook.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/facebook.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Facebook"
@@ -414,7 +414,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/instagram.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/instagram.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Instagram"
@@ -422,7 +422,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/hashnode.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/hashnode.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Hashnode"
@@ -430,13 +430,13 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/codesandbox.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/codesandbox.svg"
                     width="100%"
                     className="flex dark:hidden scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="CodeSandbox"
                   />
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/codesandbox-dark.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/codesandbox-dark.svg"
                     width="100%"
                     className="dark:flex hidden scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="CodeSandbox"
@@ -444,7 +444,7 @@ Web Developer
                 </div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/twitch.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/twitch.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Twitch"
@@ -456,7 +456,7 @@ Web Developer
                 <div className="w-10 sm:w-12 md:w-12"></div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/stackoverflow.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/stackoverflow.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Stack Overflow"
@@ -465,7 +465,7 @@ Web Developer
 
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/youtube.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/youtube.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="YouTube"
@@ -474,7 +474,7 @@ Web Developer
 
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/discord.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/discord.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Discord"
@@ -483,7 +483,7 @@ Web Developer
 
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/dribbble.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/dribbble.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Dribbble"
@@ -497,7 +497,7 @@ Web Developer
                 <div className="w-10 sm:w-12 md:w-12"></div>
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/twitter.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/twitter.svg"
                     width="100%"
                     className="scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Twitter"
@@ -506,13 +506,13 @@ Web Developer
 
                 <div className="w-10 sm:w-12 md:w-12">
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/medium.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/medium.svg"
                     width="100%"
                     className="flex dark:hidden scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Medium"
                   />
                   <img
-                    src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/socials/medium-dark.svg"
+                    src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/socials/medium-dark.svg"
                     width="100%"
                     className="dark:flex hidden scale-100 transition-all duration-300 hover:scale-125 ease-in-out"
                     alt="Medium"

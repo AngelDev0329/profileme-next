@@ -28,9 +28,9 @@ const SocialItem = forwardRef((props, ref) => {
             src={
               state[section][account].darkPath
                 ? theme == "dark"
-                  ? `https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/${section}/${account}-dark.svg`
-                  : `https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/${section}/${account}.svg`
-                : `https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/${section}/${account}.svg`
+                  ? `https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/${section}/${account}-dark.svg`
+                  : `https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/${section}/${account}.svg`
+                : `https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/${section}/${account}.svg`
             }
             width={20}
             height={20}

@@ -619,8 +619,8 @@ export default function CreateProfile() {
                             <img
                               src={
                                 theme == "dark"
-                                  ? `https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/${icon.iTag}-colored-dark.svg`
-                                  : `https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/${icon.iTag}-colored.svg`
+                                  ? `https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/${icon.iTag}-colored-dark.svg`
+                                  : `https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/${icon.iTag}-colored.svg`
                               }
                               alt={`${icon.name}`}
                               width="36"
@@ -628,7 +628,7 @@ export default function CreateProfile() {
                             />
                           ) : (
                             <img
-                              src={`https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/${icon.iTag}-colored.svg`}
+                              src={`https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/${icon.iTag}-colored.svg`}
                               alt={`${icon.name}`}
                               width="36"
                               height="36"

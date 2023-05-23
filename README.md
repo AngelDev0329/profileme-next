@@ -71,18 +71,18 @@ Contributions are always welcome! Here's a few tips on how to get started.
     ```json
     {
     name: "JavaScript",
-    path: "https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/javascript-colored.svg",
+    path: "https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/javascript-colored.svg",
     iTag: "javascript",
     link: "https://www.javascript.com/",
     },
     ```
 
-    | Key  | Value                                                                                                                                                                                                                                                 |
-    | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | name | eg: "JavaScript". This value will be the one shown to the user via the tooltip.                                                                                                                                                                       |
-    | path | The path for where the full-color version will be stored. Once the pull request has been merged, the icons you add will be found at "https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/[iconName]-colored.svg". |
-    | iTag | The name that will be used for the CSS class, all lower case.                                                                                                                                                                                         |
-    | link | The URL for the official website of the language/technology being added.                                                                                                                                                                              |
+    | Key  | Value                                                                                                                                                                                                                                               |
+    | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+    | name | eg: "JavaScript". This value will be the one shown to the user via the tooltip.                                                                                                                                                                     |
+    | path | The path for where the full-color version will be stored. Once the pull request has been merged, the icons you add will be found at "https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/[iconName]-colored.svg". |
+    | iTag | The name that will be used for the CSS class, all lower case.                                                                                                                                                                                       |
+    | link | The URL for the official website of the language/technology being added.                                                                                                                                                                            |
 
   - #### **3. Add icons to CSS**
 
@@ -90,10 +90,10 @@ Contributions are always welcome! Here's a few tips on how to get started.
 
     ```
     .javascript {
-    @apply bg-[url('https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/javascript.svg')] dark:bg-[url('https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/javascript-dark.svg')];
+    @apply bg-[url('https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/javascript.svg')] dark:bg-[url('https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/javascript-dark.svg')];
     }
     .javascript.colored {
-    @apply bg-[url('https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/icons/skills/javascript-colored.svg')];
+    @apply bg-[url('https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/icons/skills/javascript-colored.svg')];
     }
     ```
 

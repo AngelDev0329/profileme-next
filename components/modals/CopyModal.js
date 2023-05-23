@@ -98,7 +98,7 @@ const CopyModal = () => {
         </div>
         <div className="w-full md:w-1/2 flex-col hidden md:flex">
           <Image
-            src="https://raw.githubusercontent.com/AngelDev727/readme-generator/main/public/how-to-use-profile-me.gif"
+            src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/how-to-use-profile-me.gif"
             layout={"responsive"}
             width={600}
             height={292}
