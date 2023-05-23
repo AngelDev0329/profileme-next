@@ -40,7 +40,7 @@ export default function Layout({ children }) {
         />
         <meta name="author" content="Angel Dev" />
         <meta property="og:site_name" content="ProfileMe.next" />
-        <meta property="og:site" content="http://www.ProfileMe.next" />
+        <meta property="og:site" content="http://www.profileme.next" />
         <meta property="og:title" content="ProfileMe.next" />
         <meta
           property="og:description"
@@ -50,7 +50,7 @@ export default function Layout({ children }) {
           property="og:image"
           content="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/repo-storage/profile-me-social-image.png"
         />
-        <meta property="og:url" content="http://www.ProfileMe.next" />
+        <meta property="og:url" content="http://www.profileme.next" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:title" content="ProfileMe.next" />
         <meta

@@ -4,7 +4,7 @@ ProfileMe.next helps developers create an amazing GitHub profile in minutes.
 
 ## Demo
 
-A live version of this project can be found at https://www.ProfileMe.next.
+A live version of this project can be found at https://www.profileme.next.
 
 ## Features
 

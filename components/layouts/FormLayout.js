@@ -71,7 +71,7 @@ export default function FormLayout({ children }) {
         />
         <meta name="author" content="Angel Dev" />
         <meta property="og:site_name" content="ProfileMe.next" />
-        <meta property="og:site" content="http://www.ProfileMe.next" />
+        <meta property="og:site" content="http://www.profileme.next" />
         <meta property="og:title" content="ProfileMe.next" />
         <meta
           property="og:description"
@@ -81,7 +81,7 @@ export default function FormLayout({ children }) {
           property="og:image"
           content="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/repo-storage/profile-me-social-image.png"
         />
-        <meta property="og:url" content="http://www.ProfileMe.next" />
+        <meta property="og:url" content="http://www.profileme.next" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:title" content="ProfileMe.next" />
         <meta
@@ -210,7 +210,7 @@ export default function FormLayout({ children }) {
                 <li className="border-b-0 h-10 flex group">
                   <a
                     className="flex items-center px-3 font-normal no-underline w-full h-full text-dark-400/80 dark:text-light-300 dark:hover:text-white transition-all duration-150 ease-in-out hover:text-dark-700 gap-x-2 group  group-hover:text-dark-700 dark:group-hover:text-white"
-                    href="http://www.twitter.com/profilemedev"
+                    href="http://www.twitter.com/profilemenext"
                     target="_blank"
                     rel="noreferrer"
                   >
