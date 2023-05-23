@@ -13,17 +13,18 @@ export default function Changelog() {
     >
       <div className="container mx-auto py-6 md:py-24">
         <h1 className="text-5xl">Changelog</h1>
-        <p>All of the changes made to ProfileMe.dev since launch.</p>
+        <p>All of the changes made to ProfileMe.next since launch.</p>
 
         <div className="flex w-full bg-white dark:bg-dark-900/40 py-2.5 px-3 rounded-md items-center transition-all duration-150 ease-in-out">
           <p className="mb-0">
             If you are a developer and would like to contribute to
-            ProfileMe.dev, please visit the GitHub repo and make a pull request.
+            ProfileMe.next, please visit the GitHub repo and make a pull
+            request.
           </p>
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/AngelDev727/profileme-dev/commits/main"
+            href="https://github.com/AngelDev727/profileme-next/commits/main"
             className="btn-md btn-brand ml-auto self-end group gap-x-1.5"
           >
             <GitHubIcon />
@@ -78,7 +79,7 @@ export default function Changelog() {
                     Waving hand option added to introduction section. Pull
                     request submitted by{" "}
                     <a
-                      href="https://github.com/AngelDev727/profileme-dev/commits?author=paytonjewell"
+                      href="https://github.com/AngelDev727/profileme-next/commits?author=paytonjewell"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -111,7 +112,7 @@ export default function Changelog() {
                   <p className="text-sm mb-0">
                     GitHub and Twitter icon links fixed{" "}
                     <a
-                      href="https://github.com/AngelDev727/profileme-dev/commits?author=Dharmik48"
+                      href="https://github.com/AngelDev727/profileme-next/commits?author=Dharmik48"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -145,7 +146,7 @@ export default function Changelog() {
                     CodeSandbox link now works correctly. Pull request submitted
                     by{" "}
                     <a
-                      href="https://github.com/AngelDev727/profileme-dev/commits?author=bachitterch"
+                      href="https://github.com/AngelDev727/profileme-next/commits?author=bachitterch"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -243,7 +244,7 @@ export default function Changelog() {
                     State now stored if user refreshes page. Thank you to Adam
                     JA King{" "}
                     <a
-                      href="https://github.com/AngelDev727/profileme-dev/commit/3139ab20246105d87453b58334beaaa845c8e833"
+                      href="https://github.com/AngelDev727/profileme-next/commit/3139ab20246105d87453b58334beaaa845c8e833"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -276,7 +277,7 @@ export default function Changelog() {
                   <p className="text-sm mb-0">
                     Kotlin added to skills section. Thank you to Dhina17{" "}
                     <a
-                      href="https://github.com/AngelDev727/profileme-dev/commit/c89cd064571ec10f3e2dcf3455f6599c60c4f8f8"
+                      href="https://github.com/AngelDev727/profileme-next/commit/c89cd064571ec10f3e2dcf3455f6599c60c4f8f8"
                       target="_blank"
                       rel="noreferrer"
                     >

@@ -27,7 +27,7 @@ export default function Layout({ children }) {
     <div className="flex flex-col min-h-screen h-auto md:h-screen relative">
       <Head>
         <title>
-          ProfileMe.dev | Create an amazing GitHub profile in minutes
+          ProfileMe.next | Create an amazing GitHub profile in minutes
         </title>
         <meta
           name="viewport"
@@ -36,26 +36,26 @@ export default function Layout({ children }) {
         <meta charSet="utf-8" />
         <meta
           name="description"
-          content="ProfileMe.dev | Create an amazing GitHub profile in minutes"
+          content="ProfileMe.next | Create an amazing GitHub profile in minutes"
         />
         <meta name="author" content="Angel Dev" />
-        <meta property="og:site_name" content="ProfileMe.dev" />
-        <meta property="og:site" content="http://www.profileme.dev" />
-        <meta property="og:title" content="ProfileMe.dev" />
+        <meta property="og:site_name" content="ProfileMe.next" />
+        <meta property="og:site" content="http://www.ProfileMe.next" />
+        <meta property="og:title" content="ProfileMe.next" />
         <meta
           property="og:description"
           content="Create an amazing GitHub profile in minutes"
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/AngelDev727/repo-storage/main/profile-me-social-image.png"
+          content="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/repo-storage/profile-me-social-image.png"
         />
-        <meta property="og:url" content="http://www.profileme.dev" />
+        <meta property="og:url" content="http://www.ProfileMe.next" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:title" content="ProfileMe.dev" />
+        <meta property="twitter:title" content="ProfileMe.next" />
         <meta
           property="twitter:image"
-          content="https://raw.githubusercontent.com/AngelDev727/repo-storage/main/profile-me-social-image.png"
+          content="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/repo-storage/profile-me-social-image.png"
         />
         <meta
           property="twitter:description"

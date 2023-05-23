@@ -3,7 +3,7 @@ import React from "react";
 const GitHubIcon = () => {
   return (
     <a
-      href="https://github.com/AngelDev727/profileme-dev/"
+      href="https://github.com/AngelDev727/profileme-next/"
       target="_blank"
       rel="noreferrer"
       className="no-underline"

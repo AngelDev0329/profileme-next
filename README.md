@@ -1,10 +1,10 @@
-# ProfileMe.dev
+# ProfileMe.next
 
-ProfileMe.dev helps developers create an amazing GitHub profile in minutes.
+ProfileMe.next helps developers create an amazing GitHub profile in minutes.
 
 ## Demo
 
-A live version of this project can be found at https://www.profileme.dev.
+A live version of this project can be found at https://www.ProfileMe.next.
 
 ## Features
 
@@ -25,7 +25,7 @@ This project was built with:
 
 ## Installation
 
-ProfileMe.dev has a very simple, two-step installation process.
+ProfileMe.next has a very simple, two-step installation process.
 
 **1. Install dependencies**
 
@@ -45,7 +45,7 @@ Contributions are always welcome! Here's a few tips on how to get started.
 
 - ### Issues
 
-  To get started, please take a look at the ['Issues'](https://github.com/AngelDev727/profileme-dev/issues) tab, where you will find open issues that exist within the project. If you see one that interests you, create a branch and submit a PR for review and approval.
+  To get started, please take a look at the ['Issues'](https://github.com/AngelDev727/profileme-next/issues) tab, where you will find open issues that exist within the project. If you see one that interests you, create a branch and submit a PR for review and approval.
 
 - ### How to add an icon
 

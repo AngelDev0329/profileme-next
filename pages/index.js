@@ -58,7 +58,7 @@ Web Developer
           </p>
           <div className="flex items-center gap-x-4">
             <a
-              href="https://github.com/AngelDev727/profileme-dev/"
+              href="https://github.com/AngelDev727/profileme-next/"
               target="_blank"
               rel="noreferrer"
               className="transition-all duration-150 ease-in-out btn-gray btn-sm sm:btn-md md:btn-lg"
@@ -119,7 +119,7 @@ Web Developer
               src="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/screenshot.png"
               className="overflow-hidden rounded-md shadow-dark-900/5"
               width="100%"
-              alt="Screenshot of ProfileMe.dev"
+              alt="Screenshot of ProfileMe.next"
             />
           </div>
         </motion.article>

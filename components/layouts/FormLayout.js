@@ -58,7 +58,7 @@ export default function FormLayout({ children }) {
     <div className="flex flex-col min-h-screen h-auto md:h-screen relative">
       <Head>
         <title>
-          ProfileMe.dev | Create an amazing GitHub profile in minutes
+          ProfileMe.next | Create an amazing GitHub profile in minutes
         </title>
         <meta
           name="viewport"
@@ -67,26 +67,26 @@ export default function FormLayout({ children }) {
         <meta charSet="utf-8" />
         <meta
           name="description"
-          content="ProfileMe.dev | Create an amazing GitHub profile in minutes"
+          content="ProfileMe.next | Create an amazing GitHub profile in minutes"
         />
         <meta name="author" content="Angel Dev" />
-        <meta property="og:site_name" content="ProfileMe.dev" />
-        <meta property="og:site" content="http://www.profileme.dev" />
-        <meta property="og:title" content="ProfileMe.dev" />
+        <meta property="og:site_name" content="ProfileMe.next" />
+        <meta property="og:site" content="http://www.ProfileMe.next" />
+        <meta property="og:title" content="ProfileMe.next" />
         <meta
           property="og:description"
           content="Create an amazing GitHub profile in minutes"
         />
         <meta
           property="og:image"
-          content="https://raw.githubusercontent.com/AngelDev727/repo-storage/main/profile-me-social-image.png"
+          content="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/repo-storage/profile-me-social-image.png"
         />
-        <meta property="og:url" content="http://www.profileme.dev" />
+        <meta property="og:url" content="http://www.ProfileMe.next" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:title" content="ProfileMe.dev" />
+        <meta property="twitter:title" content="ProfileMe.next" />
         <meta
           property="twitter:image"
-          content="https://raw.githubusercontent.com/AngelDev727/repo-storage/main/profile-me-social-image.png"
+          content="https://raw.githubusercontent.com/AngelDev727/profileme-next/main/public/repo-storage/profile-me-social-image.png"
         />
         <meta
           property="twitter:description"
@@ -184,7 +184,7 @@ export default function FormLayout({ children }) {
                 <li className="border-b border-light-100 dark:border-dark-600 h-10 flex group">
                   <a
                     className="px-3 flex items-center font-normal no-underline w-full h-full text-dark-400/80 dark:text-light-300 hover:text-dark-700 dark:hover:text-white transition-all duration-150 ease-in-out gap-x-2 group"
-                    href="https://github.com/AngelDev727/profileme-dev/"
+                    href="https://github.com/AngelDev727/profileme-next/"
                     target="_blank"
                     rel="noreferrer"
                   >
